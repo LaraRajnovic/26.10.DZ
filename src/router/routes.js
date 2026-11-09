@@ -34,7 +34,12 @@ const routes = [
       {
         path: 'test',
         component: () => import('../pages/TestPage.vue')
-      }
+      },
+      {
+        path: 'test2',
+        component: () => import('../pages/TestPage2.vue')
+      },
+    
     ]
   },
   {

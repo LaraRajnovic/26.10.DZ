@@ -89,6 +89,12 @@ const linksList = [
   caption: 'Moja testna stranica',
   icon: 'science',
   link: '/test'
+},
+{
+  title: 'Test stranica 2',
+  caption: 'Druga testna stranica',
+  icon: 'science',
+  link: '/test2'
 }
 ]
 const leftDrawerOpen = ref(false)
